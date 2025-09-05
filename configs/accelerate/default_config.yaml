@@ -1,0 +1,6 @@
+# Accelerate default config placeholder (customize as needed)
+compute_environment: LOCAL_MACHINE
+distributed_type: MULTI_GPU
+mixed_precision: no
+num_processes: 1
+use_cpu: false
