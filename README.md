@@ -1,9 +1,5 @@
 # One-shot Entropy Minimization
 
-[![paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.20282)
-[![Model](https://img.shields.io/badge/Models/Dataset-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/zgao3186/qwen25math7b-one-shot-em/)
-[![Notion](https://img.shields.io/badge/Site-000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/One-shot-Entropy-Minimization-202606db813b80639773f850f39246a5) 
-
 ### Installation
 
 ```bash
