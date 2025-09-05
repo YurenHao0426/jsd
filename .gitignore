@@ -1,0 +1,11 @@
+checkpoints/*
+wandb/*
+image/*
+archived/*
+*.log
+./*.sh
+*.ipynb
+log/*
+*.pyc
+tmp
+code_eval/OpenCodeEval/benchmark/data
