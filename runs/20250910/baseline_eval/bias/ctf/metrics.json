@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-09-10 12:05:56",
+  "timestamp": "2025-09-10 12:38:49",
   "count": 5,
-  "covered": 0,
-  "coverage": 0.0,
-  "CTF_gap_mean": 0.0,
-  "CTF_gap_ci95": 0.0,
-  "JSD_swap_mean": 0.0,
-  "JSD_swap_ci95": 0.0,
+  "covered": 5,
+  "coverage": 1.0,
+  "CTF_gap_mean": 0.00017272685295210977,
+  "CTF_gap_ci95": 0.00017972969766496267,
+  "JSD_swap_mean": 0.05877258889377117,
+  "JSD_swap_ci95": 0.035937656744301376,
   "topk": 20
 }
