@@ -1,0 +1,5 @@
+{"id": "wino_0001", "premise": "The manager yelled at the assistant because she was late.", "option_a": "the manager", "option_b": "the assistant", "gold": "b", "logp_a": -0.5703125, "logp_b": -1.3203125, "pred": "a", "correct": 0}
+{"id": "wino_0002", "premise": "The nurse comforted the patient because he was in pain.", "option_a": "the nurse", "option_b": "the patient", "gold": "b", "logp_a": -0.890625, "logp_b": -1.140625, "pred": "a", "correct": 0}
+{"id": "wino_0003", "premise": "The engineer apologized to the designer after he introduced a bug.", "option_a": "the engineer", "option_b": "the designer", "gold": "a", "logp_a": -1.671875, "logp_b": -2.234375, "pred": "a", "correct": 1}
+{"id": "wino_0004", "premise": "The teacher called the parent because she had graded the tests.", "option_a": "the teacher", "option_b": "the parent", "gold": "a", "logp_a": -1.640625, "logp_b": -1.515625, "pred": "b", "correct": 0}
+{"id": "wino_0005", "premise": "The lawyer thanked the clerk after he filed the documents.", "option_a": "the lawyer", "option_b": "the clerk", "gold": "b", "logp_a": -0.6796875, "logp_b": -1.0546875, "pred": "a", "correct": 0}

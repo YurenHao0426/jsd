@@ -1,0 +1,7 @@
+seed: 2025
+temperature: 0.0
+top_p: 1.0
+max_new_tokens:
+  bias: 64
+  math: 512
+  ppl: 0   # PPL 直接用给定文本，无需生成

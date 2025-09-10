@@ -1,0 +1,5 @@
+{"id":"math_0001","question":"Compute 12^2 + 13^2 - 5^2.","gold":"288","metric":"exact_match"}
+{"id":"math_0002","question":"Solve for x: 2x + 5 = 19.","gold":"7","metric":"exact_match"}
+{"id":"math_0003","question":"Let f(n)=n(n+1)/2. Compute f(20).","gold":"210","metric":"exact_match"}
+{"id":"math_0004","question":"Evaluate \\sum_{k=1}^{10} k^2.","gold":"385","metric":"exact_match"}
+{"id":"math_0005","question":"Find \\gcd(84,126).","gold":"42","metric":"exact_match"}

@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-09-10 12:05:56",
+  "count": 5,
+  "covered": 0,
+  "coverage": 0.0,
+  "CTF_gap_mean": 0.0,
+  "CTF_gap_ci95": 0.0,
+  "JSD_swap_mean": 0.0,
+  "JSD_swap_ci95": 0.0,
+  "topk": 20
+}
